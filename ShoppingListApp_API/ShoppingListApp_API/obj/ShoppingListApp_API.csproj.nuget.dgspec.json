@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API\\ShoppingListApp_API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj",
+        "projectName": "ShoppingListApp_API.Model",
+        "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj",
+        "packagesPath": "C:\\Users\\merzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Fished/Fished/_packaging/Fished/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\ShoppingListApp_API.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\ShoppingListApp_API.Services.csproj",
+        "projectName": "ShoppingListApp_API.Services",
+        "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\ShoppingListApp_API.Services.csproj",
+        "packagesPath": "C:\\Users\\merzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Fished/Fished/_packaging/Fished/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj": {
+                "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API\\ShoppingListApp_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API\\ShoppingListApp_API.csproj",
+        "projectName": "ShoppingListApp_API",
+        "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API\\ShoppingListApp_API.csproj",
+        "packagesPath": "C:\\Users\\merzi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/Fished/Fished/_packaging/Fished/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj": {
+                "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Model\\ShoppingListApp_API.Model.csproj"
+              },
+              "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\ShoppingListApp_API.Services.csproj": {
+                "projectPath": "C:\\Users\\merzi\\OneDrive\\Desktop\\TACTA_TASK\\ShoppingListApp_Task\\ShoppingListApp_API\\ShoppingListApp_API.Services\\ShoppingListApp_API.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.18.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

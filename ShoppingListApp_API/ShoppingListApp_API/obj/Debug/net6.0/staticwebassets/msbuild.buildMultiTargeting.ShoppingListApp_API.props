@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShoppingListApp_API.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\bin\Debug\net6.0\ShoppingListApp_API.Model.deps.json
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\bin\Debug\net6.0\ShoppingListApp_API.Model.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\bin\Debug\net6.0\ShoppingListApp_API.Model.pdb
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.csproj.AssemblyReference.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.AssemblyInfoInputs.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.AssemblyInfo.cs
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.csproj.CoreCompileInputs.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\refint\ShoppingListApp_API.Model.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ShoppingListApp_API.Model.pdb
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Model\obj\Debug\net6.0\ref\ShoppingListApp_API.Model.dll

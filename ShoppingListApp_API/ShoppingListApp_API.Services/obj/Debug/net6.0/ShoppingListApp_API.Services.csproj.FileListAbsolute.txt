@@ -1,0 +1,17 @@
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Services.deps.json
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Services.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Services.pdb
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.csproj.AssemblyReference.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.AssemblyInfoInputs.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.AssemblyInfo.cs
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.csproj.CoreCompileInputs.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\refint\ShoppingListApp_API.Services.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.pdb
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ref\ShoppingListApp_API.Services.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Services.runtimeconfig.json
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.genruntimeconfig.cache
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Model.dll
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\bin\Debug\net6.0\ShoppingListApp_API.Model.pdb
+C:\Users\merzi\OneDrive\Desktop\TACTA_TASK\ShoppingListApp_Task\ShoppingListApp_API\ShoppingListApp_API.Services\obj\Debug\net6.0\ShoppingListApp_API.Services.csproj.CopyComplete
